@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"json-server --watch db.json --port 3000\" \"nodemon -q server.js\""
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
+    "concurrently": "^7.6.0",
     "nodemon": "^2.0.22"
   }
 }

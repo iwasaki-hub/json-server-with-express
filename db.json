@@ -1,5 +1,32 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "email": "mario@gmail.com",
+      "password": "$2b$10$qPjofCyagqS4p2fC346iy.wAexXmIUvgXdklPKHgVjCpHUTPE3OwC",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcmlvQGdtYWlsLmNvbSIsImlhdCI6MTY3OTk4NDEzMiwiZXhwIjoxNjgwMDcwNTMyfQ.QGnwOvbvsyr8pXhaLtNxUXLrD84c_4J22J9yxvB0agg",
+      "createdAt": "2023-03-28T06:15:32.546Z",
+      "id": 1
+    },
+    {
+      "email": "mario2@gmail.com",
+      "password": "$2b$10$UNWtkHo1soaMfp1uFil6luoAuCEZiaSLeW7rrNqoFGSdBBlA0e2EO",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcmlvMkBnbWFpbC5jb20iLCJpYXQiOjE2Nzk5ODU1MTgsImV4cCI6MTY4MDA3MTkxOH0.FwIMejNf_VI4dKCdtD_73mBOXa-3lU6TVW6D9S-9B5o",
+      "createdAt": "2023-03-28T06:38:38.396Z",
+      "id": 2
+    },
+    {
+      "email": "luigi@gmail.com",
+      "password": "$2b$10$5rzT1qs4CkIQvGAZ4hoM4OH8mzD5KUzy1o/cgL7nNUbTRwLEKKF5y",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imx1aWdpQGdtYWlsLmNvbSIsImlhdCI6MTY3OTk4NjA2OSwiZXhwIjoxNjgwMDcyNDY5fQ.yB3iXsucWWfU1YV52pT3nYpU1UvOv-oTqAzJUQ8rxUU",
+      "createdAt": "2023-03-28T06:47:49.255Z",
+      "id": 3
+    }
+  ]
 }
