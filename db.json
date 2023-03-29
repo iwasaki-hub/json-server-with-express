@@ -9,24 +9,17 @@
   "users": [
     {
       "email": "mario@gmail.com",
-      "password": "$2b$10$qPjofCyagqS4p2fC346iy.wAexXmIUvgXdklPKHgVjCpHUTPE3OwC",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcmlvQGdtYWlsLmNvbSIsImlhdCI6MTY3OTk4NDEzMiwiZXhwIjoxNjgwMDcwNTMyfQ.QGnwOvbvsyr8pXhaLtNxUXLrD84c_4J22J9yxvB0agg",
-      "createdAt": "2023-03-28T06:15:32.546Z",
+      "password": "$2b$10$iKkPFNYlD5LOjjHg7z6qt.uP/CVugK4NE6BlGLcbXikNJSTP.WLri",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcmlvQGdtYWlsLmNvbSIsImlhdCI6MTY4MDA3MDkxOSwiZXhwIjoxNjgwMTU3MzE5fQ.zeVD1fUwiznrVVzQiPywPgtlVcc0lr4lJcPDuLMHCUE",
+      "createdAt": "2023-03-29T06:21:59.859Z",
       "id": 1
     },
     {
-      "email": "mario2@gmail.com",
-      "password": "$2b$10$UNWtkHo1soaMfp1uFil6luoAuCEZiaSLeW7rrNqoFGSdBBlA0e2EO",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hcmlvMkBnbWFpbC5jb20iLCJpYXQiOjE2Nzk5ODU1MTgsImV4cCI6MTY4MDA3MTkxOH0.FwIMejNf_VI4dKCdtD_73mBOXa-3lU6TVW6D9S-9B5o",
-      "createdAt": "2023-03-28T06:38:38.396Z",
-      "id": 2
-    },
-    {
       "email": "luigi@gmail.com",
-      "password": "$2b$10$5rzT1qs4CkIQvGAZ4hoM4OH8mzD5KUzy1o/cgL7nNUbTRwLEKKF5y",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imx1aWdpQGdtYWlsLmNvbSIsImlhdCI6MTY3OTk4NjA2OSwiZXhwIjoxNjgwMDcyNDY5fQ.yB3iXsucWWfU1YV52pT3nYpU1UvOv-oTqAzJUQ8rxUU",
-      "createdAt": "2023-03-28T06:47:49.255Z",
-      "id": 3
+      "password": "$2b$10$Qoal7Og2QbzuSrOdjQ8A7OrAShcabLGzNM.P6cUhnCXiqM4PNGWOe",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imx1aWdpQGdtYWlsLmNvbSIsImlhdCI6MTY4MDA3MDkzOSwiZXhwIjoxNjgwMTU3MzM5fQ.SrMo4lFYw1fiy4V4EaODepXmYb2i-hJEZt_Eiq5Nt0s",
+      "createdAt": "2023-03-29T06:22:19.912Z",
+      "id": 2
     }
   ]
 }
